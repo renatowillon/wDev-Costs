@@ -5,8 +5,9 @@
 }
 
 .form_control label{
+    font-size: 14px;
     margin-bottom: .6em;
-    font-weight: bold;
+    font-weight: normal;
 }
 
 .form_control select{

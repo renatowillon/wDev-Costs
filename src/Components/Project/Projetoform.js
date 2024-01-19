@@ -15,17 +15,16 @@ function ProjetoForm({btnText}){
             
             <Input
             type="number"
-            text="Orçamento de Orçamento"
+            text="Orçamento de Projeto"
             name="budget"
             placeholder="Insira o orçamento total"
             />
 
-            <div>
-                <Select
-                name="category_id"
-                text="Selecione a Categoria"
-                />
-            </div>
+            <Select
+            name="category_id"
+            text="Selecione a Categoria"
+            />
+            
             <SubmitButton text={btnText}/>
         </form>
     )
