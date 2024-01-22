@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "wDev | Costs",
+  "name": "App de gerenciamento de custos",
   "icons": [
     {
       "src": "favicon.ico",
