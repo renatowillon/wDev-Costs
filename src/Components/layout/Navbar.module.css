@@ -4,6 +4,9 @@
     background-color: #222;
     padding: 1em;
 }
+.navbar img{
+    margin-right: 1em;
+}
 
 .list{
     display: flex;
