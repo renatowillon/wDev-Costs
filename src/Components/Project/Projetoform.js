@@ -20,6 +20,7 @@ function ProjetoForm({btnText}){
     }, [])
 
     return(
+        
         <form className={style.form}>
             <Input
             type="text"
@@ -40,9 +41,10 @@ function ProjetoForm({btnText}){
             text="Selecione a Categoria"
             options={categoria}
             />
-            
             <SubmitButton text={btnText}/>
         </form>
+
+        
     )
 }
 
