@@ -1,24 +1,99 @@
 {
-    "projeto": [],
-    "categoria":[
-        {
-        "id": 1,
+  "projeto": [
+    {
+      "id": "1790",
+      "name": "Reforma na Cozinha",
+      "budget": "1500.00",
+      "categoria": {
+        "id": "1",
         "name": "Cozinha"
-         },
-         
-         {
-        "id": 2,
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "6732",
+      "name": "Pintura no Quarto",
+      "budget": "400.00",
+      "categoria": {
+        "id": "2",
         "name": "Quarto"
-         },
-         
-         {
-        "id": 3,
-        "name": "Varanda"
-         },
-         
-         {
-        "id": 4,
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "99e4",
+      "name": "Reforma no Banheiro",
+      "budget": "500.00",
+      "categoria": {
+        "id": "4",
         "name": "Banheiro"
-         }
-]
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "7a4f",
+      "name": "Quarto de Ryan",
+      "budget": "200.00",
+      "categoria": {
+        "id": "2",
+        "name": "Quarto"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "749a",
+      "name": "Quarto de Ryan",
+      "budget": "200.00",
+      "categoria": {
+        "id": "2",
+        "name": "Quarto"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "3809",
+      "name": "teste",
+      "budget": "120.00",
+      "categoria": {
+        "id": "3",
+        "name": "Varanda"
+      },
+      "costs": 0,
+      "services": []
+    },
+    {
+      "id": "cb3a",
+      "name": "Renato Willon",
+      "budget": "1500.00",
+      "categoria": {
+        "id": "2",
+        "name": "Quarto"
+      },
+      "costs": 0,
+      "services": []
+    }
+  ],
+  "categoria": [
+    {
+      "id": 1,
+      "name": "Cozinha"
+    },
+    {
+      "id": 2,
+      "name": "Quarto"
+    },
+    {
+      "id": 3,
+      "name": "Varanda"
+    },
+    {
+      "id": 4,
+      "name": "Banheiro"
+    }
+  ]
 }
